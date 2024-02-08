@@ -1,0 +1,21 @@
+{
+  "name": "mi-wish-list",
+  "version": "1.0.0",
+  "description": "my wish list proyect",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds --node-resolve --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "José Alfredo Fuentes Ojeda",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^3.1.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
